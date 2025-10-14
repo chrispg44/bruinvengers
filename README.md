@@ -1,6 +1,6 @@
 # BruinVengers
 
-### BruinVengers_hackGauntlet.ino
+### BruinVengers_hackGauntlet.ino (not included here)
 
 Executable file where local computer communicates with ESP32.
 
@@ -24,6 +24,9 @@ CAD image files
 
 Picture of team logo
 
+### How The Website Looks
+
+![website.png](./images/website.png)
 
 
 ### Notes:
