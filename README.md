@@ -4,21 +4,17 @@
 
 Executable file where local computer communicates with ESP32.
 
-### BruinVengers_gui.html
+### index.html
 
 HTML file that is the structure of our website. 
 
-### BruinVengers_gui2.css
+### styles.css
 
 CSS file for making our website pretty. 
 
-### communication.js (provided)
+### communication.js 
 
 Provided code that provides communication between ESP32 and website in real time.
-
-### HackPublisher.h (provided)
-
-Header file to provide functionality for ESP32 code to connect to website.
 
 ### imgx.png 
 
